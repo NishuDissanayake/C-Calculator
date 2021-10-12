@@ -1,8 +1,9 @@
 #include <stdio.h>
-#include <stdlib.h>
 
-int main()
-{
-    printf("Hello world!\n");
+int main() {
+    int no1=10;
+	int no2=30;
+	 printf("sum =",(no1+no2));
     return 0;
 }
+  
